@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.556ce807.css",
-    "main.js": "/portfolio/static/js/main.32d879a8.js",
-    "static/media/dchubite.png": "/portfolio/static/media/dchubite.5d639f07cb7fbd7766e8.png",
-    "static/media/profile.png": "/portfolio/static/media/profile.6b25c685e12ef6a49cd2.png",
-    "static/media/java.png": "/portfolio/static/media/java.fdabd4e11f1235e4e8e0.png",
-    "static/media/movie.jpg": "/portfolio/static/media/movie.24055843a8ccdd0a4bdb.jpg",
-    "static/media/premier.jpg": "/portfolio/static/media/premier.f1e1d8fa78bc7d68276e.jpg",
-    "static/media/chamartin.jpg": "/portfolio/static/media/chamartin.11a4e874bc493f34fede.jpg",
-    "static/media/laravel.png": "/portfolio/static/media/laravel.a70b42d065a04a2b707c.png",
-    "static/media/spend.jpg": "/portfolio/static/media/spend.4258587b1a461fa88afe.jpg",
-    "static/media/flutter.png": "/portfolio/static/media/flutter.bf16b76ab7da22617492.png",
-    "index.html": "/portfolio/index.html",
-    "main.556ce807.css.map": "/portfolio/static/css/main.556ce807.css.map",
-    "main.32d879a8.js.map": "/portfolio/static/js/main.32d879a8.js.map"
+    "main.css": "/portofolio/static/css/main.556ce807.css",
+    "main.js": "/portofolio/static/js/main.c0a2c92a.js",
+    "static/media/dchubite.png": "/portofolio/static/media/dchubite.5d639f07cb7fbd7766e8.png",
+    "static/media/profile.png": "/portofolio/static/media/profile.6b25c685e12ef6a49cd2.png",
+    "static/media/java.png": "/portofolio/static/media/java.fdabd4e11f1235e4e8e0.png",
+    "static/media/movie.jpg": "/portofolio/static/media/movie.24055843a8ccdd0a4bdb.jpg",
+    "static/media/premier.jpg": "/portofolio/static/media/premier.f1e1d8fa78bc7d68276e.jpg",
+    "static/media/chamartin.jpg": "/portofolio/static/media/chamartin.11a4e874bc493f34fede.jpg",
+    "static/media/laravel.png": "/portofolio/static/media/laravel.a70b42d065a04a2b707c.png",
+    "static/media/spend.jpg": "/portofolio/static/media/spend.4258587b1a461fa88afe.jpg",
+    "static/media/flutter.png": "/portofolio/static/media/flutter.bf16b76ab7da22617492.png",
+    "index.html": "/portofolio/index.html",
+    "main.556ce807.css.map": "/portofolio/static/css/main.556ce807.css.map",
+    "main.c0a2c92a.js.map": "/portofolio/static/js/main.c0a2c92a.js.map"
   },
   "entrypoints": [
     "static/css/main.556ce807.css",
-    "static/js/main.32d879a8.js"
+    "static/js/main.c0a2c92a.js"
   ]
 }
